@@ -1,2 +1,2 @@
 # othello_game
-othelloAi game using python and mini max Alpha beta algorithm
+othello Ai game using python and mini max Alpha beta algorithm
