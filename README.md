@@ -1,4 +1,7 @@
 # othello_game
+
+![alt text](http://url/to/img.png)
+
 othello Ai game using python and mini max Alpha beta algorithm
 
 Run start from the main.py file 
