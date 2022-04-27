@@ -1,6 +1,6 @@
 # othello_game
 
-![alt text](http://url/to/img.png)
+![othello](https://github.com/ahmednaser7897/othello_game/blob/main/game%20image.png)
 
 othello Ai game using python and mini max Alpha beta algorithm
 
